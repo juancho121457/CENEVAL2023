@@ -1,0 +1,21 @@
+[
+	{ "s": "HA", "p": [9] },
+	{ "s": "HABILITA", "p": [5] },
+	{ "s": "HABILITADA", "p": [24] },
+	{ "s": "HABILITAR", "p": [5] },
+	{ "s": "HABILITARÁN", "p": [5] },
+	{ "s": "HABITACIONAL", "p": [7] },
+	{ "s": "HABITACIÓN", "p": [28] },
+	{ "s": "HAN", "p": [9] },
+	{ "s": "HASTA", "p": [28, 23] },
+	{ "s": "HAY", "p": [37] },
+	{ "s": "HECHO", "p": [19, 7] },
+	{ "s": "HERRAMIENTA", "p": [6] },
+	{ "s": "HOJA", "p": [9] },
+	{ "s": "HOLGURA", "p": [34, 33, 32] },
+	{ "s": "HORA", "p": [9] },
+	{ "s": "HORARIO", "p": [9] },
+	{ "s": "HORAS", "p": [9] },
+	{ "s": "HP", "p": [9] },
+	{ "s": "HR", "p": [9] }
+]

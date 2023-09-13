@@ -1,0 +1,23 @@
+[
+	{ "s": "IMPORTE", "p": [26, 21, 17] },
+	{ "s": "IMPORTES", "p": [26] },
+	{ "s": "IMPREVISTOS", "p": [17] },
+	{ "s": "IMPUESTO", "p": [15] },
+	{ "s": "INDICAN", "p": [9] },
+	{ "s": "INDIRECTO", "p": [13, 12] },
+	{ "s": "INDIRECTOS", "p": [17, 15] },
+	{ "s": "INDIVIDUALES", "p": [8] },
+	{ "s": "INDUSTRIAL", "p": [13, 12] },
+	{ "s": "INFORMA", "p": [26] },
+	{ "s": "INFORMACIÓN", "p": [37, 29, 27, 26, 23, 15] },
+	{ "s": "INFRAESTRUCTURA", "p": [34] },
+	{ "s": "INGENIERÍA", "p": [1] },
+	{ "s": "INICIO", "p": [32, 33] },
+	{ "s": "INSPECCIÓN", "p": [29, 27, 21] },
+	{ "s": "INTEGRAN", "p": [34] },
+	{ "s": "INTEGRARSE", "p": [3] },
+	{ "s": "INTERÉS", "p": [9] },
+	{ "s": "INVERSIÓN", "p": [9] },
+	{ "s": "INVOLUCRA", "p": [6] },
+	{ "s": "ISR", "p": [15] }
+]
